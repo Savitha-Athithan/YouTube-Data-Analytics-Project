@@ -27,11 +27,11 @@ This project focuses on collecting YouTube channel and video data using the YouT
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Main Dashboard](Screenshot%20youtube%20data.png)
+![Main Dashboard](Screenshot%20youtube.png)
 
 
 ### Channel Information
-![Channel Information](Screenshot%20youtube.png)
+![Channel Information](Screenshot%20youtube%20data.png)
 
 
 ### Video Analytics
